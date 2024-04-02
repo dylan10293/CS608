@@ -5,6 +5,16 @@ This repository contains Java code demonstrating the heap data structure and rel
 ### CS 608 Project:
 This code is developed as part of the CS 608 course project, focusing on data structures and algorithms. It serves as a comprehensive demonstration of heap data structure concepts and operations.
 
+#### Project Members: 
+1. Patil Shantanu Deepak
+2. Patole Atharv
+3. Pereira Dylan
+4. Pol Yash Jitendra
+5. Polireddy Pavan.
+
+### Our presentation:  
+[Heaps - Google Slides](https://docs.google.com/presentation/d/16IsVry6B2SBnYIh6vHIwxuNQNYT2f4PVRHsrECo3Mlw/edit?usp=sharing)
+
 ### Features:
 - Implementation of heap data structure with operations like insertion, deletion, heapify-up, and heapify-down.
 - Heap sort algorithm for sorting arrays using heaps.
